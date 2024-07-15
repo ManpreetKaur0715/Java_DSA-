@@ -1,7 +1,4 @@
 import java.util.Scanner;
-import java.lang.*;
-import java.lang.Math;
-import java.rmi.server.RMIClassLoader;
 public class Day12 {
   public static void main(String[] args) {
     //input

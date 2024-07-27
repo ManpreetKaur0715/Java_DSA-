@@ -10,7 +10,7 @@ public class day5 {
         sum+=i;
     }
         System.out.println(sum);
-        return;
+        return ;
     }
 
    public static void main(String[] args) {

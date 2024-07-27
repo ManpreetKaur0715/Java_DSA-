@@ -1,6 +1,6 @@
 public class p14 {
     public static void main(String[] args) {
-        //question29
+        //question29 pattern printing problem
         int n=5;
         for(int i=1;i<=n;i++){
             for(int k=1;k<=n-i;k++){
